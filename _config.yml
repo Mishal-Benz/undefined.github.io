@@ -4,61 +4,66 @@ url: https://github.com/Mishal-Benz/undefined.github.io
 # Site settings
 title: Team New Site
 # email: your-email@domain.com
-description: "Trying a new Jekyll Template - Agency"
+description: "Webpage for HAI and RAI Teams"
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+- name: Dr. Markus Götz
+  pic: mgoetz
+  position: Team Lead
+  #social:
+  #  - title: twitter
+  #    url: #
+  #  - title: facebook
+  #    url: #
+  #  - title: stack-overflow
+  #    url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+- name: Dr. Charlotte Debus
+  pic: cdebus
+  position: Team Lead
+  #social:
+  #  - title: twitter
+  #    url: #
+  #  - title: facebook
+  #    url: #
+  #  - title: linkedin
+  #    url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+- name: Dr. Mishal Benz
+  pic: mbenz
+  position: Helmholtz AI Consultant
+  #social:
+  #  - title: twitter
+  #    url: #
+  #  - title: facebook
+  #   url: #
+  #  - title: google-plus
+  #    url: #
+
+- name: Dr. Marie Weiel
+  pic: mweiel
+  position: Helmholtz AI Consultant
+  #social:
+  #  - title: twitter
+  #    url: #
+  #  - title: facebook
+  #   url: #
+  #  - title: google-plus
+  #    url: #
+#
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/Helmholtz-AI-Energy
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Karlsruhe Institute of Technology, Campus North
+  - line: Hermann-von-Helmholtz-Platz 1, 76344 Eggenstein-Leopoldshafen, Germany
 
 # Build settings
 markdown: kramdown
