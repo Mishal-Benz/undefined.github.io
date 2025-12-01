@@ -12,47 +12,30 @@ people:
 - name: Dr. Markus Götz
   pic: mgoetz
   position: Team Lead
-  #social:
-  #  - title: twitter
-  #    url: #
-  #  - title: facebook
-  #    url: #
-  #  - title: stack-overflow
-  #    url: #
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/markus-g%C3%B6tz-410430253/
 
 - name: Dr. Charlotte Debus
   pic: cdebus
   position: Team Lead
-  #social:
-  #  - title: twitter
-  #    url: #
-  #  - title: facebook
-  #    url: #
-  #  - title: linkedin
-  #    url: #
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/charlotte-debus-316214a0/
 
 - name: Dr. Mishal Benz
   pic: mbenz
   position: Helmholtz AI Consultant
-  #social:
-  #  - title: twitter
-  #    url: #
-  #  - title: facebook
-  #   url: #
-  #  - title: google-plus
-  #    url: #
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/dr-mishal-benz
 
 - name: Dr. Marie Weiel
   pic: mweiel
   position: Helmholtz AI Consultant
-  #social:
-  #  - title: twitter
-  #    url: #
-  #  - title: facebook
-  #   url: #
-  #  - title: google-plus
-  #    url: #
-#
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/marie-weiel-bb80b827b/
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
